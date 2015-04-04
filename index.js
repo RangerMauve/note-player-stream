@@ -1,10 +1,10 @@
 var xtend = require("xtend");
 var through2 = require("through2");
+var ctx = require("audio-context");
 
 module.exports = playerStream;
 
 function playerStream(options) {
-	var ctx = require("audio-context");
 	var gain = ctx.createGain();
 
 	options = xtend({
