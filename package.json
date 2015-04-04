@@ -1,6 +1,6 @@
 {
   "name": "note-player-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plays different notes with the Web Audio API based on a stream of input",
   "main": "index.js",
   "scripts": {
