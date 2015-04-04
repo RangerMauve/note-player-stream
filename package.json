@@ -1,0 +1,29 @@
+{
+  "name": "note-player-stream",
+  "version": "1.0.0",
+  "description": "Plays different notes with the Web Audio API based on a stream of input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RangerMauve/note-player-stream.git"
+  },
+  "keywords": [
+    "web",
+    "audio",
+    "midi",
+    "player",
+    "stream"
+  ],
+  "author": "rangermauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/note-player-stream/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/note-player-stream",
+  "dependencies": {
+    "xtend": "^4.0.0"
+  }
+}
