@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/RangerMauve/note-player-stream",
   "dependencies": {
+    "through2": "^0.6.3",
     "xtend": "^4.0.0"
   }
 }
